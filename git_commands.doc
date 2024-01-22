@@ -1,0 +1,10 @@
+﻿git init: to initialize the git
+git status: to know the status
+
+to commit
+--------
+git add filename (eg:git add myfile)
+git commit -m "this is the first form"
+
+
+
